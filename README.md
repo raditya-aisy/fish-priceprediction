@@ -1,4 +1,4 @@
-# fish Price Prediction
+# Fish Price Prediction
 
 Base URL:
 

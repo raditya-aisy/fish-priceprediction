@@ -15,7 +15,7 @@ Base URL:
   - jenis_ikan = string
   - kategori = string
   - jumlah_bulan = int
-- Response
+- Contoh Request dalam RAW
 ```json
 {
     "jenis_ikan": "Bandeng",

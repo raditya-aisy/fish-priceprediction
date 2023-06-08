@@ -15,13 +15,13 @@ Base URL:
   - jenis_ikan = string
   - kategori = string
   - jumlah_bulan = int
-- Contoh input dalam raw
-  ```json
- {
+- Response
+```json
+{
     "jenis_ikan": "Bandeng",
     "kategori": "Eceran",
     "jumlah_bulan": 5
- }
+}
 ```
 - Response
 ```json
